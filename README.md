@@ -1,2 +1,2 @@
-# gijsfitenkul.github.io
-Personal Website
+# Gijs Fiten
+Portfolio - Elektronica-ICT
